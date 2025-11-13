@@ -24,11 +24,6 @@ st.markdown("""
             * ini memggunakan marcdown multibaris
             """
 )
-#coba mandiri
-#tuliskan: 
-#judul praktikum pakai judul 
-#bagian praktikum pakai subheader
-#nama lengkap anggota -nim pakai marcdown multibaris
 
 st.header("praktikum1 visualisasi data")
 st.subheader("Bagian 1: text element")

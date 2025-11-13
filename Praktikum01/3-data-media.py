@@ -1,4 +1,17 @@
 import streamlit as st
+import pandas as pd #untuk mengelolah data dalam bentuk frame tabel (dataframe)
+import numpy as np # untuk memmbuat data numerik
+
+st.header("Praktikum 1 Visualisasi Data")
+st.subheader("Bagian 1: Data element")
+st.markdown("""
+            - Santika Sintia Larasati - 0110122045
+            - Saepulloh  - 0110222183
+            - Muhammad Ammar - 0110122308
+            """
+)
+
+import streamlit as st
 st.write("Displaying an images")
 st.image("E:/VISDAT/Assets/Data-Science Scope.jpg")
 st.write("Image Courtesy: id.pinterest.com")
