@@ -15,7 +15,7 @@ option = st.sidebar.selectbox("Pilih Tipe Visualisasi",(
 # Identitas Kelompok
 st.caption("Praktikum 3 - Matplotlib Line Chart")
 st.markdown("""
-Kelompok 29:
+Kelompok 9:
 - Santika Sintia Larasati (0110122045)
 - Saepulloh  (0110222183)
 - Muhammad Ammar (0110122308)
